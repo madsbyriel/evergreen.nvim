@@ -83,11 +83,11 @@ Evergreen.config = vim.deepcopy(default_config)
 -- @define-color teal #008080;
 
 Evergreen.palette = {
-  dark0 = "#001a00",            -- background color
-  dark1 = "#003300",            -- lualine bar / sidebar
-  dark2 = "#004d00",            -- 
-  dark3 = "#006600",            -- visual mode highlight
-  dark4 = "#008000",
+  dark0 = "#0a1108",            -- background color
+  dark1 = "#142310",            -- lualine bar / sidebar
+  dark2 = "#1e3418",            -- 
+  dark3 = "#294521",            -- visual mode highlight
+  dark4 = "#335729",
 
   light0 = "#80ff80",
   light1 = "#66ff66",           -- variable names
